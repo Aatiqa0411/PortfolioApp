@@ -1,0 +1,26 @@
+.data-entry {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .data-entry form {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .data-entry input, .data-entry textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .data-entry button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,24 @@
+.about {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .about img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .about ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .about li {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px 10px;
+    background: #61dafb;
+    border-radius: 5px;
+  }
+  
